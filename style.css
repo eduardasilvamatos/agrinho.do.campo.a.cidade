@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 1000px 100;
+    padding: 1000px 500;
 }
 
 .cabecalho-imagem{
@@ -62,7 +62,6 @@
 .rodape{
     background-color: #fcaacf;
     text-align: center;
-    padding: 500px 100;
 }
 
 .rodape-imagem{
