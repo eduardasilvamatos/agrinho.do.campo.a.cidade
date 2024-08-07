@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 1000px 500;
+    padding: 500px 100;
 }
 
 .cabecalho-imagem{
@@ -32,7 +32,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 1000px 500;
+    padding: 500px 100;
 }
 
 .escola-div-conteudo{
